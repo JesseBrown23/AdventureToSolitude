@@ -21,17 +21,25 @@ class MainGame
     private:
         //bool isWarrior, isMage, isArcher = true;
 
+        //Variable to store users name
         string _name;
-        int pickedHeroType;
 
+        //Prints the title thing
         void printTitle();
 
+
+        int pickedHeroType;
+
+        //Gets users name
         string getName();
 
+        //Function for picking hero type
         int getHeroType();
 
+        //Stores chosen first weapon
         string firstWeapon();
 
+        //Hopefully start the story.
         void beginGame();
 
 

@@ -60,8 +60,10 @@ string MainGame::firstWeapon(){
 
     switch(pickedHeroType){
         case 1:
-            cout << "Welcome, " << _name << ", you are a brave Warrior!" << endl;
-            cout << "Choose the weapon you'd like to start out with. (Enter 1-2)" << endl;
+            cout << "\n\n$-----------------------------------------------------------$" << endl;
+            cout << "|Welcome, " << _name << ", you are a brave Warrior!                   |" << endl;
+            cout << "$-----------------------------------------------------------$" << endl;
+            cout << "|Choose the weapon you'd like to start out with. (Enter 1-2)|" << endl;
             for(int i = 0; i < 2; i++){
                 cout << i + 1 << "." << firstWarriorWeapons[i] << endl;
             }
@@ -104,7 +106,9 @@ string MainGame::firstWeapon(){
 }
 
 void MainGame::beginGame(){
-    cout << "Congratulations, You are ready to begin your adventure to Solitude!" << endl;
+    cout << "\n\n$-------------------------------------------------------------------$" << endl;
+    cout << "|Congratulations, You are ready to begin your adventure to Solitude!|" << endl;
+    cout << "$-------------------------------------------------------------------$" << endl;
 }
 
 MainGame::~MainGame(){

@@ -18,3 +18,15 @@
 	<iostream>
 	<string>
 
+1427290213 source:/home/jesse23/Desktop/CPlusPlus/RPGAttempt/main.cpp
+	<iostream>
+	"MainGame.h"
+
+1427290213 /home/jesse23/Desktop/CPlusPlus/RPGAttempt/MainGame.h
+	<iostream>
+	<fstream>
+	<string>
+
+1427291248 source:/home/jesse23/Desktop/CPlusPlus/RPGAttempt/MainGame.cpp
+	"MainGame.h"
+

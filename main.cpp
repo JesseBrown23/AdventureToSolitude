@@ -8,6 +8,7 @@ int main(){
     //Creating object
     MainGame mainGame1;
 
+    //Game loop
     mainGame1.gameLoop();
 
     return 0;
