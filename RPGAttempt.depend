@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1427262936 source:/home/jesse23/Desktop/C++/RPGAttempt/main.cpp
+	<iostream>
+	"MainGame.h"
+
+1427263856 /home/jesse23/Desktop/C++/RPGAttempt/MainGame.h
+	<iostream>
+	<fstream>
+	<string>
+
+1427260706 source:/home/jesse23/Desktop/C++/RPGAttempt/MainGame.cpp
+	"MainGame.h"
+
+1427247235 source:/home/jesse23/Desktop/C++/RPGAttempt/GetName.cpp
+	"GetName.h"
+
+1427247223 /home/jesse23/Desktop/C++/RPGAttempt/GetName.h
+	<iostream>
+	<string>
+
