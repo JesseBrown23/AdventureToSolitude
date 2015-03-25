@@ -5,7 +5,7 @@
 using namespace std;
 
 int main(){
-
+    //Creating object
     MainGame mainGame1;
 
     mainGame1.gameLoop();
