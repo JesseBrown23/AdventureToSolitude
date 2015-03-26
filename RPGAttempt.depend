@@ -18,15 +18,26 @@
 	<iostream>
 	<string>
 
-1427290213 source:/home/jesse23/Desktop/CPlusPlus/RPGAttempt/main.cpp
+1427316594 source:/home/jesse23/Desktop/CPlusPlus/RPGAttempt/main.cpp
 	<iostream>
+	<string>
 	"MainGame.h"
+	"PlayerClass.h"
 
-1427290213 /home/jesse23/Desktop/CPlusPlus/RPGAttempt/MainGame.h
+1427316624 /home/jesse23/Desktop/CPlusPlus/RPGAttempt/MainGame.h
 	<iostream>
 	<fstream>
 	<string>
 
-1427291248 source:/home/jesse23/Desktop/CPlusPlus/RPGAttempt/MainGame.cpp
+1427303946 source:/home/jesse23/Desktop/CPlusPlus/RPGAttempt/MainGame.cpp
 	"MainGame.h"
+
+1427334633 /home/jesse23/Desktop/CPlusPlus/RPGAttempt/PlayerClass.h
+	<iostream>
+	<fstream>
+	<string>
+	"MainGame.h"
+
+1427334633 source:/home/jesse23/Desktop/CPlusPlus/RPGAttempt/PlayerClass.cpp
+	"PlayerClass.h"
 

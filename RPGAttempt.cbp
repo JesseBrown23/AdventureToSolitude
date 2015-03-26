@@ -34,6 +34,8 @@
 		</Compiler>
 		<Unit filename="MainGame.cpp" />
 		<Unit filename="MainGame.h" />
+		<Unit filename="PlayerClass.cpp" />
+		<Unit filename="PlayerClass.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="title.text" />
 		<Extensions>

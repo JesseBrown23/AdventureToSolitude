@@ -8,7 +8,6 @@ void MainGame::gameLoop(){
     getName();
     getHeroType();
     firstWeapon();
-    beginGame();
 }
 
 void MainGame::printTitle(){
@@ -103,12 +102,6 @@ string MainGame::firstWeapon(){
     }
 
     return weaponChosen;
-}
-
-void MainGame::beginGame(){
-    cout << "\n\n$-------------------------------------------------------------------$" << endl;
-    cout << "|Congratulations, You are ready to begin your adventure to Solitude!|" << endl;
-    cout << "$-------------------------------------------------------------------$" << endl;
 }
 
 MainGame::~MainGame(){

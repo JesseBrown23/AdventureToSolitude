@@ -5,6 +5,7 @@
 #include <fstream>
 #include <string>
 
+
 using namespace std;
 
 class MainGame
@@ -16,12 +17,14 @@ class MainGame
 
         virtual ~MainGame();
 
+        string returnName(){return _name;}
+
+
 
     protected:
     private:
         //bool isWarrior, isMage, isArcher = true;
 
-        //Variable to store users name
         string _name;
 
         //Prints the title thing
@@ -38,11 +41,6 @@ class MainGame
 
         //Stores chosen first weapon
         string firstWeapon();
-
-        //Hopefully start the story.
-        void beginGame();
-
-
 };
 
 #endif // MAINGAME_H
